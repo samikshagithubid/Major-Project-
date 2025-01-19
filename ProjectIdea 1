@@ -1,0 +1,28 @@
+Rental Vehicle Monitoring and Safety System
+
+Project Overview
+
+This project proposes the development of an Advanced Rental Vehicle Monitoring and Safety System,
+integrating various sensors and a dashcam to provide real-time data about a rental car’s condition and environment.
+
+Key Features
+
+Speed Monitoring: Tracks and reports the vehicle’s speed in real-time.
+
+Temperature Sensing: Monitors internal and external temperature.
+
+Live Location Tracking: Provides GPS-based tracking for precise vehicle location.
+
+Tire Pressure Measurement: Detects and alerts for low tire pressure.
+
+Vibration Detection: Senses vibrations to detect potential collisions.
+
+Carbon Dioxide Level Sensing: Monitors air quality within the vehicle.
+
+Fire Detection: Identifies fire-related hazards.
+
+Remote Dashcam Access: Offers live footage from the dashcam remotely.
+
+Target Audience
+
+Designed primarily for rental service providers in India, this system aims to enhance vehicle management, ensure safety, and improve customer satisfaction.
