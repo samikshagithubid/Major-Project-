@@ -1,0 +1,43 @@
+ITR-1 (Sahaj) Form Content Overview
+The ITR-1 (Sahaj) form is designed for individuals with income up to ₹50 lakh from salaries, one house property, and other sources like interest. It excludes those who are directors in companies or have invested in unlisted equity shares. The form comprises several sections:​
+Income Tax Department
++4
+Income Tax India
++4
+Income Tax Department
++4
+Income Tax Department
+Tax2win
+
+Part A: General Information
+
+Personal details like name, PAN, Aadhaar number, address, and contact information.​
+
+Part B: Gross Total Income
+
+Breakdown of income from salary, house property, and other sources.​
+Income Tax Department
+
+Part C: Deductions and Taxable Total Income
+
+Details of deductions claimed under various sections (e.g., 80C, 80D) and computation of taxable income.​
+
+Part D: Computation of Tax Payable
+
+Calculation of tax liability, rebate under section 87A, and cess.​
+
+Part E: Other Information
+
+Bank account details for refund processing and declarations.​
+iNRI
+
+Verification
+
+Declaration affirming the accuracy of provided information, to be signed by the taxpayer.​
+
+For a detailed page-by-page view, you can download the ITR-1 form PDF from the link provided above.
+
+Additional Resources
+ClearTax Guide: Comprehensive information on documents required for ITR filing.​
+
+Economic Times Article: List of 10 essential documents needed for ITR filing.
