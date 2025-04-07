@@ -1,0 +1,31 @@
+Proof of Concept & Feasibility Highlights
+1️⃣ Data Collection & OCR Extraction
+✅ Concept: Users upload income-related documents, OCR extracts text.
+✅ Feasibility: Tesseract OCR, Google Vision API, AWS Textract for structured/unstructured data.
+
+2️⃣ Data Preprocessing & Validation
+✅ Concept: Clean, format, and validate extracted data via APIs (PAN, Aadhaar).
+✅ Feasibility: NLP for text cleaning, government APIs for verification, cross-checking figures.
+
+3️⃣ AI-Based Classification & Auto-Fill
+✅ Concept: ML models classify income, deductions & auto-fill ITR fields.
+✅ Feasibility: Supervised learning for classification, rule-based tax-saving suggestions.
+
+4️⃣ ITR Type Selection (Auto-Suggestion)
+✅ Concept: Suggests ITR form (ITR-1 to ITR-4) based on income sources.
+✅ Feasibility: Decision tree logic, AI-based recommendations.
+
+5️⃣ Tax Calculation & Optimization
+✅ Concept: Computes taxable income, applies deductions, selects the best tax regime.
+✅ Feasibility: Rule-based tax calculations, Old vs. New regime comparison.
+
+6️⃣ Filing & E-Verification
+✅ Concept: Auto-fills ITR, allows review, submits electronically with e-verification.
+✅ Feasibility: Tax portal API/RPA automation, Aadhaar OTP, Net Banking verification.
+
+✅ Completed ITR Filing & Acknowledgment
+📌 ITR submission proof generated for records.
+📌 PDF acknowledgment receipt for future reference.
+
+Conclusion:
+The system is technically feasible using OCR, AI, APIs & automation, but API access & legal compliance need consideration.
