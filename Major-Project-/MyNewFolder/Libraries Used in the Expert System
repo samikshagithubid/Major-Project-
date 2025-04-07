@@ -1,0 +1,53 @@
+Libraries Used in the Expert System for Automated Tax Filing
+
+1️⃣ OCR & Text Extraction
+
+Tesseract OCR – Extracts text from scanned documents and PDFs.
+
+PyMuPDF (fitz) – Reads and processes PDFs.
+
+pdfplumber – Extracts structured text and tables from PDFs.
+
+
+2️⃣ Data Processing & Validation
+
+pandas – Handles data manipulation and validation.
+
+NumPy – Supports numerical computations for tax calculations.
+
+re (Regex) – Cleans and formats extracted text.
+
+
+3️⃣ AI & Machine Learning
+
+scikit-learn – ML models for document classification and tax prediction.
+
+NLTK / spaCy – NLP for extracting key details from unstructured text.
+
+
+4️⃣ Rule-Based & Expert System Implementation
+
+CLIPS / Pyke – Implements rule-based reasoning.
+
+Experta – A Python-based expert system library.
+
+
+5️⃣ Web & UI Development
+
+Flask / FastAPI – Develops a web interface for tax filing.
+
+Gradio / Streamlit – Creates interactive web applications.
+
+
+6️⃣ Automation & E-Filing Integration
+
+Selenium / Playwright – Automates tax portal interactions.
+
+PyAutoGUI – Automates form-filling tasks if needed.
+
+
+7️⃣ Report Generation & Storage
+
+openpyxl – Exports data to Excel.
+
+ReportLab – Generates PDFs for tax acknowledgment receipts.
