@@ -1,0 +1,22 @@
+OCR (Optical Character Recognition) Libraries
+
+Tesseract OCR (pytesseract) – Extracts text from scanned images and PDFs.
+
+pdfplumber – Extracts structured text, especially from tabular PDFs.
+
+PyMuPDF (fitz) – Reads and processes PDF documents.
+
+EasyOCR – Deep learning-based OCR for better accuracy on complex documents.
+
+Keras-OCR – Uses deep learning models for text extraction.
+
+
+2️⃣ NLP (Natural Language Processing) Libraries
+
+spaCy – Used for Named Entity Recognition (NER) to extract names, PAN, Aadhaar, and financial details.
+
+NLTK (Natural Language Toolkit) – Tokenization, stemming, and parsing of text data.
+
+TextBlob – Simplifies text processing tasks like sentiment analysis (if required).
+
+transformers (Hugging Face) – Uses pre-trained language models for better text understanding.
